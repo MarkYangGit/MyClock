@@ -1,0 +1,10 @@
+F:\Project\MySelfPrpject\ClockAI\ClockAI\bin\Debug\ClockAI.exe.config
+F:\Project\MySelfPrpject\ClockAI\ClockAI\bin\Debug\ClockAI.exe
+F:\Project\MySelfPrpject\ClockAI\ClockAI\bin\Debug\ClockAI.pdb
+F:\Project\MySelfPrpject\ClockAI\ClockAI\obj\Debug\ClockAI.csprojAssemblyReference.cache
+F:\Project\MySelfPrpject\ClockAI\ClockAI\obj\Debug\ClockAI.ClockAI.resources
+F:\Project\MySelfPrpject\ClockAI\ClockAI\obj\Debug\ClockAI.Properties.Resources.resources
+F:\Project\MySelfPrpject\ClockAI\ClockAI\obj\Debug\ClockAI.csproj.GenerateResource.cache
+F:\Project\MySelfPrpject\ClockAI\ClockAI\obj\Debug\ClockAI.csproj.CoreCompileInputs.cache
+F:\Project\MySelfPrpject\ClockAI\ClockAI\obj\Debug\ClockAI.exe
+F:\Project\MySelfPrpject\ClockAI\ClockAI\obj\Debug\ClockAI.pdb
